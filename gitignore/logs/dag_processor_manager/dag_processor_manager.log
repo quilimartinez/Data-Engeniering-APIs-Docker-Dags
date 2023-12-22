@@ -1,0 +1,1567 @@
+[2023-12-04T01:06:02.100+0000] {manager.py:487} INFO - Processing files using up to 2 processes at a time 
+[2023-12-04T01:06:02.168+0000] {manager.py:488} INFO - Process each file at most once every 10 seconds
+[2023-12-04T01:06:02.172+0000] {manager.py:489} INFO - Checking for new files in /opt/airflow/dags every 300 seconds
+[2023-12-04T01:06:02.178+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T01:06:02.186+0000] {manager.py:758} INFO - There are 0 files in /opt/airflow/dags
+[2023-12-04T01:11:02.591+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T01:11:02.599+0000] {manager.py:758} INFO - There are 0 files in /opt/airflow/dags
+[2023-12-04T01:16:03.358+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T01:16:03.376+0000] {manager.py:758} INFO - There are 0 files in /opt/airflow/dags
+[2023-12-04T01:21:03.944+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T01:21:03.955+0000] {manager.py:758} INFO - There are 0 files in /opt/airflow/dags
+[2023-12-04T01:26:04.548+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T01:26:04.554+0000] {manager.py:758} INFO - There are 0 files in /opt/airflow/dags
+[2023-12-04T01:31:05.188+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T01:31:06.171+0000] {manager.py:758} INFO - There are 2 files in /opt/airflow/dags
+[2023-12-04T01:31:12.857+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  3.21s           2023-12-04T01:31:10
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  3.09s           2023-12-04T01:31:10
+================================================================================
+[2023-12-04T01:31:43.164+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py            196  0.04s             0           1  0.44s           2023-12-04T01:31:32
+/opt/airflow/dags/dag_luchmeetnet_catchup.py    199  0.01s             0           1  0.44s           2023-12-04T01:31:32
+================================================================================
+[2023-12-04T01:32:13.577+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  1.49s           2023-12-04T01:32:06
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  1.50s           2023-12-04T01:32:06
+================================================================================
+[2023-12-04T01:32:43.703+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.69s           2023-12-04T01:32:40
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.65s           2023-12-04T01:32:40
+================================================================================
+[2023-12-04T01:33:13.768+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  1.37s           2023-12-04T01:33:04
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.91s           2023-12-04T01:33:04
+================================================================================
+[2023-12-04T01:33:43.787+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.68s           2023-12-04T01:33:39
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.65s           2023-12-04T01:33:39
+================================================================================
+[2023-12-04T01:34:13.800+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.20s           2023-12-04T01:34:11
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.20s           2023-12-04T01:34:11
+================================================================================
+[2023-12-04T01:34:44.702+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.14s           2023-12-04T01:34:42
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.19s           2023-12-04T01:34:42
+================================================================================
+[2023-12-04T01:35:15.501+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.18s           2023-12-04T01:35:13
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.20s           2023-12-04T01:35:13
+================================================================================
+[2023-12-04T01:35:45.510+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.24s           2023-12-04T01:35:44
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.24s           2023-12-04T01:35:44
+================================================================================
+[2023-12-04T01:36:05.274+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T01:36:05.334+0000] {manager.py:758} INFO - There are 2 files in /opt/airflow/dags
+[2023-12-04T01:36:15.688+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.22s           2023-12-04T01:36:15
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.20s           2023-12-04T01:36:15
+================================================================================
+[2023-12-04T01:36:46.284+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py            476  0.02s             0           1  0.14s           2023-12-04T01:36:36
+/opt/airflow/dags/dag_luchmeetnet_catchup.py    479  0.01s             0           1  0.14s           2023-12-04T01:36:36
+================================================================================
+[2023-12-04T01:37:17.126+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py            506  0.02s             0           1  0.21s           2023-12-04T01:37:06
+/opt/airflow/dags/dag_luchmeetnet_catchup.py    509  0.01s             0           1  0.20s           2023-12-04T01:37:07
+================================================================================
+[2023-12-04T01:37:47.975+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py            536  0.03s             0           1  0.21s           2023-12-04T01:37:37
+/opt/airflow/dags/dag_luchmeetnet_catchup.py    539  0.01s             0           1  0.21s           2023-12-04T01:37:37
+================================================================================
+[2023-12-04T01:38:18.757+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py            566  0.02s             0           1  0.20s           2023-12-04T01:38:08
+/opt/airflow/dags/dag_luchmeetnet_catchup.py    569  0.01s             0           1  0.17s           2023-12-04T01:38:08
+================================================================================
+[2023-12-04T01:38:49.409+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.15s           2023-12-04T01:38:39
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.15s           2023-12-04T01:38:39
+================================================================================
+[2023-12-04T01:39:20.411+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py            626  0.05s             0           1  0.20s           2023-12-04T01:39:10
+/opt/airflow/dags/dag_luchmeetnet_catchup.py    629  0.01s             0           1  0.25s           2023-12-04T01:39:10
+================================================================================
+[2023-12-04T01:39:51.220+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py            656  0.04s             0           1  0.14s           2023-12-04T01:39:41
+/opt/airflow/dags/dag_luchmeetnet_catchup.py    659  0.01s             0           1  0.13s           2023-12-04T01:39:41
+================================================================================
+[2023-12-04T01:40:21.892+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.21s           2023-12-04T01:40:11
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.21s           2023-12-04T01:40:11
+================================================================================
+[2023-12-04T01:40:51.901+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.20s           2023-12-04T01:40:42
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.19s           2023-12-04T01:40:42
+================================================================================
+[2023-12-04T01:41:05.507+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T01:41:05.564+0000] {manager.py:758} INFO - There are 2 files in /opt/airflow/dags
+[2023-12-04T01:41:22.796+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.15s           2023-12-04T01:41:13
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.15s           2023-12-04T01:41:13
+================================================================================
+[2023-12-04T01:41:52.928+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.38s           2023-12-04T01:41:44
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.32s           2023-12-04T01:41:44
+================================================================================
+[2023-12-04T01:42:23.636+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.25s           2023-12-04T01:42:15
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.23s           2023-12-04T01:42:15
+================================================================================
+[2023-12-04T01:42:53.669+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.18s           2023-12-04T01:42:46
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.17s           2023-12-04T01:42:46
+================================================================================
+[2023-12-04T01:43:24.450+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.19s           2023-12-04T01:43:17
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.18s           2023-12-04T01:43:17
+================================================================================
+[2023-12-04T01:43:55.340+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.15s           2023-12-04T01:43:48
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.14s           2023-12-04T01:43:48
+================================================================================
+[2023-12-04T01:44:26.230+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.19s           2023-12-04T01:44:19
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.23s           2023-12-04T01:44:19
+================================================================================
+[2023-12-04T01:44:57.221+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.19s           2023-12-04T01:44:50
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.20s           2023-12-04T01:44:50
+================================================================================
+[2023-12-04T01:45:28.048+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.24s           2023-12-04T01:45:21
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.21s           2023-12-04T01:45:21
+================================================================================
+[2023-12-04T01:45:58.231+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.32s           2023-12-04T01:45:52
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.25s           2023-12-04T01:45:52
+================================================================================
+[2023-12-04T01:46:05.509+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T01:46:05.590+0000] {manager.py:758} INFO - There are 2 files in /opt/airflow/dags
+[2023-12-04T01:46:29.150+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.16s           2023-12-04T01:46:23
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.16s           2023-12-04T01:46:23
+================================================================================
+[2023-12-04T01:46:59.246+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.16s           2023-12-04T01:46:54
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.15s           2023-12-04T01:46:54
+================================================================================
+[2023-12-04T01:47:29.949+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.20s           2023-12-04T01:47:25
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.20s           2023-12-04T01:47:25
+================================================================================
+[2023-12-04T01:48:00.877+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.13s           2023-12-04T01:47:55
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.13s           2023-12-04T01:47:55
+================================================================================
+[2023-12-04T01:48:31.674+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.20s           2023-12-04T01:48:26
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.21s           2023-12-04T01:48:26
+================================================================================
+[2023-12-04T01:49:02.397+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.13s           2023-12-04T01:48:57
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.13s           2023-12-04T01:48:57
+================================================================================
+[2023-12-04T01:49:33.090+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.14s           2023-12-04T01:49:28
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.14s           2023-12-04T01:49:28
+================================================================================
+[2023-12-04T01:50:03.262+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.37s           2023-12-04T01:49:59
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.33s           2023-12-04T01:49:59
+================================================================================
+[2023-12-04T01:50:33.615+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.19s           2023-12-04T01:50:30
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.19s           2023-12-04T01:50:30
+================================================================================
+[2023-12-04T01:51:03.700+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.24s           2023-12-04T01:51:01
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.23s           2023-12-04T01:51:01
+================================================================================
+[2023-12-04T01:51:05.714+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T01:51:05.776+0000] {manager.py:758} INFO - There are 2 files in /opt/airflow/dags
+[2023-12-04T01:51:33.806+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.39s           2023-12-04T01:51:32
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.30s           2023-12-04T01:51:32
+================================================================================
+[2023-12-04T01:52:04.718+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.27s           2023-12-04T01:52:03
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.24s           2023-12-04T01:52:03
+================================================================================
+[2023-12-04T01:52:35.587+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.21s           2023-12-04T01:52:34
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.22s           2023-12-04T01:52:34
+================================================================================
+[2023-12-04T01:53:06.331+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.18s           2023-12-04T01:53:05
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.17s           2023-12-04T01:53:05
+================================================================================
+[2023-12-04T01:53:36.372+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.15s           2023-12-04T01:53:36
+/opt/airflow/dags/dag_luchmeetnet_catchup.py   1459  0.14s             0           1  0.18s           2023-12-04T01:53:26
+================================================================================
+[2023-12-04T01:54:06.865+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.19s           2023-12-04T01:53:56
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.16s           2023-12-04T01:53:56
+================================================================================
+[2023-12-04T01:54:37.676+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.19s           2023-12-04T01:54:27
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.18s           2023-12-04T01:54:27
+================================================================================
+[2023-12-04T01:55:07.706+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.18s           2023-12-04T01:54:58
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.18s           2023-12-04T01:54:58
+================================================================================
+[2023-12-04T01:55:38.519+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.15s           2023-12-04T01:55:29
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.15s           2023-12-04T01:55:29
+================================================================================
+[2023-12-04T01:56:06.224+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T01:56:06.277+0000] {manager.py:758} INFO - There are 2 files in /opt/airflow/dags
+[2023-12-04T01:56:09.321+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.14s           2023-12-04T01:56:00
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.14s           2023-12-04T01:56:00
+================================================================================
+[2023-12-04T01:56:40.095+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.17s           2023-12-04T01:56:31
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.16s           2023-12-04T01:56:31
+================================================================================
+[2023-12-04T01:57:10.823+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.17s           2023-12-04T01:57:01
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.15s           2023-12-04T01:57:01
+================================================================================
+[2023-12-04T01:57:41.739+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.20s           2023-12-04T01:57:32
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.20s           2023-12-04T01:57:32
+================================================================================
+[2023-12-04T01:58:12.676+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.22s           2023-12-04T01:58:03
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.24s           2023-12-04T01:58:03
+================================================================================
+[2023-12-04T01:58:43.360+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.16s           2023-12-04T01:58:34
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.13s           2023-12-04T01:58:34
+================================================================================
+[2023-12-04T01:59:14.359+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.15s           2023-12-04T01:59:05
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.15s           2023-12-04T01:59:05
+================================================================================
+[2023-12-04T01:59:45.272+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.17s           2023-12-04T01:59:36
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.17s           2023-12-04T01:59:36
+================================================================================
+[2023-12-04T02:00:15.966+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.15s           2023-12-04T02:00:06
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.13s           2023-12-04T02:00:06
+================================================================================
+[2023-12-04T02:00:46.780+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.21s           2023-12-04T02:00:37
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.21s           2023-12-04T02:00:37
+================================================================================
+[2023-12-04T02:01:06.284+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T02:01:06.345+0000] {manager.py:758} INFO - There are 2 files in /opt/airflow/dags
+[2023-12-04T02:01:17.493+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.15s           2023-12-04T02:01:08
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.14s           2023-12-04T02:01:08
+================================================================================
+[2023-12-04T02:01:47.561+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.15s           2023-12-04T02:01:39
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.14s           2023-12-04T02:01:39
+================================================================================
+[2023-12-04T02:02:18.478+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.13s           2023-12-04T02:02:10
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.13s           2023-12-04T02:02:10
+================================================================================
+[2023-12-04T02:02:49.075+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.17s           2023-12-04T02:02:41
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.16s           2023-12-04T02:02:41
+================================================================================
+[2023-12-04T02:03:19.918+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.14s           2023-12-04T02:03:11
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.14s           2023-12-04T02:03:11
+================================================================================
+[2023-12-04T02:03:50.636+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.14s           2023-12-04T02:03:42
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.13s           2023-12-04T02:03:42
+================================================================================
+[2023-12-04T02:04:21.621+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.21s           2023-12-04T02:04:13
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.19s           2023-12-04T02:04:13
+================================================================================
+[2023-12-04T02:04:52.396+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.15s           2023-12-04T02:04:44
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.15s           2023-12-04T02:04:44
+================================================================================
+[2023-12-04T02:05:22.974+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.15s           2023-12-04T02:05:15
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.14s           2023-12-04T02:05:15
+================================================================================
+[2023-12-04T02:05:53.736+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.21s           2023-12-04T02:05:45
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.20s           2023-12-04T02:05:45
+================================================================================
+[2023-12-04T02:06:06.329+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T02:06:06.384+0000] {manager.py:758} INFO - There are 2 files in /opt/airflow/dags
+[2023-12-04T02:06:24.574+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.15s           2023-12-04T02:06:16
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.12s           2023-12-04T02:06:16
+================================================================================
+[2023-12-04T02:06:55.338+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.14s           2023-12-04T02:06:47
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.13s           2023-12-04T02:06:47
+================================================================================
+[2023-12-04T02:07:26.087+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.14s           2023-12-04T02:07:18
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.12s           2023-12-04T02:07:18
+================================================================================
+[2023-12-04T02:07:56.996+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.13s           2023-12-04T02:07:48
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.13s           2023-12-04T02:07:48
+================================================================================
+[2023-12-04T02:08:27.786+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.17s           2023-12-04T02:08:19
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.14s           2023-12-04T02:08:19
+================================================================================
+[2023-12-04T02:08:57.858+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.23s           2023-12-04T02:08:50
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.22s           2023-12-04T02:08:50
+================================================================================
+[2023-12-04T02:09:28.665+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.15s           2023-12-04T02:09:21
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.15s           2023-12-04T02:09:21
+================================================================================
+[2023-12-04T02:09:58.977+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.13s           2023-12-04T02:09:52
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.12s           2023-12-04T02:09:52
+================================================================================
+[2023-12-04T02:10:29.843+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.14s           2023-12-04T02:10:23
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.14s           2023-12-04T02:10:23
+================================================================================
+[2023-12-04T02:11:00.507+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.17s           2023-12-04T02:10:54
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.15s           2023-12-04T02:10:54
+================================================================================
+[2023-12-04T02:11:06.846+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T02:11:06.909+0000] {manager.py:758} INFO - There are 2 files in /opt/airflow/dags
+[2023-12-04T02:11:30.537+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.14s           2023-12-04T02:11:25
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.13s           2023-12-04T02:11:25
+================================================================================
+[2023-12-04T02:12:00.867+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.14s           2023-12-04T02:11:56
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.13s           2023-12-04T02:11:56
+================================================================================
+[2023-12-04T02:12:31.605+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.16s           2023-12-04T02:12:27
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.16s           2023-12-04T02:12:27
+================================================================================
+[2023-12-04T02:13:02.391+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.13s           2023-12-04T02:12:58
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.13s           2023-12-04T02:12:58
+================================================================================
+[2023-12-04T02:13:33.105+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.15s           2023-12-04T02:13:29
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.14s           2023-12-04T02:13:29
+================================================================================
+[2023-12-04T02:14:03.858+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.13s           2023-12-04T02:13:59
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.13s           2023-12-04T02:13:59
+================================================================================
+[2023-12-04T02:14:34.703+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.19s           2023-12-04T02:14:30
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.19s           2023-12-04T02:14:30
+================================================================================
+[2023-12-04T02:15:05.347+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.19s           2023-12-04T02:15:01
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.18s           2023-12-04T02:15:01
+================================================================================
+[2023-12-04T02:15:36.230+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                                   0           1  0.20s           2023-12-04T02:15:32
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.18s           2023-12-04T02:15:32
+================================================================================
+[2023-12-04T02:16:06.412+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.32s           2023-12-04T02:16:03
+/opt/airflow/dags/dag_luchmeetnet.py                                   1           0  0.88s           2023-12-04T02:15:56
+================================================================================
+[2023-12-04T02:16:06.911+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T02:16:07.370+0000] {manager.py:758} INFO - There are 2 files in /opt/airflow/dags
+[2023-12-04T02:16:37.076+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.13s           2023-12-04T02:16:34
+/opt/airflow/dags/dag_luchmeetnet.py                                   1           0  0.68s           2023-12-04T02:16:30
+================================================================================
+[2023-12-04T02:17:07.768+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.11s           2023-12-04T02:17:04
+/opt/airflow/dags/dag_luchmeetnet.py                                   1           0  0.70s           2023-12-04T02:17:04
+================================================================================
+[2023-12-04T02:17:37.932+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                     PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.18s           2023-12-04T02:17:35
+/opt/airflow/dags/dag_luchmeetnet.py                                   1           0  1.50s           2023-12-04T02:17:34
+================================================================================
+[2023-12-04T02:18:08.599+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                       PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+--------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet_catchup.py                           0           1  0.16s           2023-12-04T02:18:06
+/opt/airflow/dags/dag_luchmeetnet.py           2899  1.05s             1           0  1.02s           2023-12-04T02:17:57
+================================================================================
+[2023-12-04T02:18:13.643+0000] {manager.py:1137} WARNING - Skipping processing of missing file: /opt/airflow/dags/dag_luchmeetnet_catchup.py
+[2023-12-04T02:18:38.859+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.91s           2023-12-04T02:18:30
+================================================================================
+[2023-12-04T02:19:09.014+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  1.04s           2023-12-04T02:19:04
+================================================================================
+[2023-12-04T02:19:39.807+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  1.02s           2023-12-04T02:19:37
+================================================================================
+[2023-12-04T02:20:10.031+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py   2965  0.31s             1           0  0.81s           2023-12-04T02:19:59
+================================================================================
+[2023-12-04T02:20:40.843+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.83s           2023-12-04T02:20:32
+================================================================================
+[2023-12-04T02:21:07.433+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T02:21:07.475+0000] {manager.py:758} INFO - There are 1 files in /opt/airflow/dags
+[2023-12-04T02:21:11.528+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  1.19s           2023-12-04T02:21:06
+================================================================================
+[2023-12-04T02:21:42.062+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.65s           2023-12-04T02:21:40
+================================================================================
+[2023-12-04T02:22:12.311+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py   3031  0.01s             1           0  0.82s           2023-12-04T02:22:02
+================================================================================
+[2023-12-04T02:22:43.116+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.67s           2023-12-04T02:22:35
+================================================================================
+[2023-12-04T02:23:13.650+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.95s           2023-12-04T02:23:07
+================================================================================
+[2023-12-04T02:23:43.850+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  1.01s           2023-12-04T02:23:40
+================================================================================
+[2023-12-04T02:24:14.475+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.76s           2023-12-04T02:24:13
+================================================================================
+[2023-12-04T02:24:44.624+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.73s           2023-12-04T02:24:35
+================================================================================
+[2023-12-04T02:25:15.102+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.68s           2023-12-04T02:25:07
+================================================================================
+[2023-12-04T02:25:45.158+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.63s           2023-12-04T02:25:40
+================================================================================
+[2023-12-04T02:26:07.779+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T02:26:07.835+0000] {manager.py:758} INFO - There are 1 files in /opt/airflow/dags
+[2023-12-04T02:26:15.258+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.64s           2023-12-04T02:26:12
+================================================================================
+[2023-12-04T02:26:45.621+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py   3181  0.53s             1           0  0.99s           2023-12-04T02:26:34
+================================================================================
+[2023-12-04T02:27:16.055+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.66s           2023-12-04T02:27:07
+================================================================================
+[2023-12-04T02:27:46.652+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.62s           2023-12-04T02:27:39
+================================================================================
+[2023-12-04T02:28:17.083+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.77s           2023-12-04T02:28:12
+================================================================================
+[2023-12-04T02:28:47.489+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.65s           2023-12-04T02:28:44
+================================================================================
+[2023-12-04T02:29:18.041+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.71s           2023-12-04T02:29:17
+================================================================================
+[2023-12-04T02:29:48.057+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.66s           2023-12-04T02:29:38
+================================================================================
+[2023-12-04T02:30:18.798+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.58s           2023-12-04T02:30:10
+================================================================================
+[2023-12-04T02:30:49.379+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.62s           2023-12-04T02:30:43
+================================================================================
+[2023-12-04T02:31:07.806+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T02:31:07.865+0000] {manager.py:758} INFO - There are 1 files in /opt/airflow/dags
+[2023-12-04T02:31:20.039+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.68s           2023-12-04T02:31:16
+================================================================================
+[2023-12-04T02:31:50.369+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.63s           2023-12-04T02:31:48
+================================================================================
+[2023-12-04T02:32:20.636+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py   3367  0.01s             1           0  0.88s           2023-12-04T02:32:10
+================================================================================
+[2023-12-04T02:32:50.899+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.80s           2023-12-04T02:32:43
+================================================================================
+[2023-12-04T02:33:21.445+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.73s           2023-12-04T02:33:16
+================================================================================
+[2023-12-04T02:33:52.063+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.68s           2023-12-04T02:33:49
+================================================================================
+[2023-12-04T02:34:22.155+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py   3433  1.02s             1           0  0.70s           2023-12-04T02:34:10
+================================================================================
+[2023-12-04T02:34:52.550+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.73s           2023-12-04T02:34:43
+================================================================================
+[2023-12-04T02:35:22.997+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.61s           2023-12-04T02:35:16
+================================================================================
+[2023-12-04T02:35:53.579+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.59s           2023-12-04T02:35:48
+================================================================================
+[2023-12-04T02:36:07.962+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T02:36:08.051+0000] {manager.py:758} INFO - There are 1 files in /opt/airflow/dags
+[2023-12-04T02:36:23.949+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.64s           2023-12-04T02:36:20
+================================================================================
+[2023-12-04T02:36:53.986+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.86s           2023-12-04T02:36:53
+================================================================================
+[2023-12-04T02:37:24.400+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.76s           2023-12-04T02:37:15
+================================================================================
+[2023-12-04T02:37:54.997+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.88s           2023-12-04T02:37:48
+================================================================================
+[2023-12-04T02:38:25.430+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.69s           2023-12-04T02:38:20
+================================================================================
+[2023-12-04T02:38:55.784+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.68s           2023-12-04T02:38:53
+================================================================================
+[2023-12-04T02:39:26.250+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.69s           2023-12-04T02:39:25
+================================================================================
+[2023-12-04T02:39:56.643+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.81s           2023-12-04T02:39:47
+================================================================================
+[2023-12-04T02:40:27.098+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  1.28s           2023-12-04T02:40:21
+================================================================================
+[2023-12-04T02:40:57.437+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.84s           2023-12-04T02:40:54
+================================================================================
+[2023-12-04T02:41:08.551+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T02:41:08.621+0000] {manager.py:758} INFO - There are 1 files in /opt/airflow/dags
+[2023-12-04T02:41:27.576+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.83s           2023-12-04T02:41:27
+================================================================================
+[2023-12-04T02:41:57.656+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.80s           2023-12-04T02:41:49
+================================================================================
+[2023-12-04T02:42:27.764+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  1.06s           2023-12-04T02:42:22
+================================================================================
+[2023-12-04T02:42:58.190+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.80s           2023-12-04T02:42:55
+================================================================================
+[2023-12-04T02:43:28.615+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py   3733  0.75s             1           0  0.86s           2023-12-04T02:43:17
+================================================================================
+[2023-12-04T02:43:58.906+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.88s           2023-12-04T02:43:50
+================================================================================
+[2023-12-04T02:44:28.972+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.78s           2023-12-04T02:44:23
+================================================================================
+[2023-12-04T02:44:59.041+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.80s           2023-12-04T02:44:56
+================================================================================
+[2023-12-04T02:45:29.119+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py   3799  0.01s             1           0  0.93s           2023-12-04T02:45:18
+================================================================================
+[2023-12-04T02:45:59.427+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  1.59s           2023-12-04T02:45:52
+================================================================================
+[2023-12-04T02:46:09.004+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T02:46:09.067+0000] {manager.py:758} INFO - There are 1 files in /opt/airflow/dags
+[2023-12-04T02:46:29.546+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  1.15s           2023-12-04T02:46:25
+================================================================================
+[2023-12-04T02:46:59.874+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.61s           2023-12-04T02:46:57
+================================================================================
+[2023-12-04T02:47:30.298+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py   3865  0.77s             1           0  0.64s           2023-12-04T02:47:19
+================================================================================
+[2023-12-04T02:48:00.737+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  1.06s           2023-12-04T02:47:52
+================================================================================
+[2023-12-04T02:48:30.795+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.90s           2023-12-04T02:48:25
+================================================================================
+[2023-12-04T02:49:00.822+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.97s           2023-12-04T02:48:58
+================================================================================
+[2023-12-04T02:49:31.232+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py   3931  0.55s             1           0  0.71s           2023-12-04T02:49:20
+================================================================================
+[2023-12-04T02:50:02.137+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.82s           2023-12-04T02:49:54
+================================================================================
+[2023-12-04T02:50:32.268+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.98s           2023-12-04T02:50:27
+================================================================================
+[2023-12-04T02:51:02.304+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  1.14s           2023-12-04T02:51:00
+================================================================================
+[2023-12-04T02:51:09.400+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T02:51:09.484+0000] {manager.py:758} INFO - There are 1 files in /opt/airflow/dags
+[2023-12-04T02:51:32.715+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py   3997  0.01s             1           0  0.94s           2023-12-04T02:51:22
+================================================================================
+[2023-12-04T02:52:03.222+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.63s           2023-12-04T02:51:55
+================================================================================
+[2023-12-04T02:52:33.641+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.70s           2023-12-04T02:52:27
+================================================================================
+[2023-12-04T02:53:04.039+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  1.17s           2023-12-04T02:53:01
+================================================================================
+[2023-12-04T02:53:34.078+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.94s           2023-12-04T02:53:34
+================================================================================
+[2023-12-04T02:54:04.217+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.88s           2023-12-04T02:53:56
+================================================================================
+[2023-12-04T02:54:34.271+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.90s           2023-12-04T02:54:29
+================================================================================
+[2023-12-04T02:55:04.306+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.91s           2023-12-04T02:55:02
+================================================================================
+[2023-12-04T02:55:34.425+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py   4129  0.01s             1           0  0.85s           2023-12-04T02:55:24
+================================================================================
+[2023-12-04T02:56:04.645+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.81s           2023-12-04T02:55:57
+================================================================================
+[2023-12-04T02:56:09.697+0000] {manager.py:755} INFO - Searching for files in /opt/airflow/dags
+[2023-12-04T02:56:09.745+0000] {manager.py:758} INFO - There are 1 files in /opt/airflow/dags
+[2023-12-04T02:56:35.136+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.81s           2023-12-04T02:56:30
+================================================================================
+[2023-12-04T02:57:05.717+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.78s           2023-12-04T02:57:02
+================================================================================
+[2023-12-04T02:57:36.164+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.74s           2023-12-04T02:57:35
+================================================================================
+[2023-12-04T02:58:06.546+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.88s           2023-12-04T02:57:57
+================================================================================
+[2023-12-04T02:58:36.616+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.82s           2023-12-04T02:58:30
+================================================================================
+[2023-12-04T02:59:06.741+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.98s           2023-12-04T02:59:03
+================================================================================
+[2023-12-04T02:59:36.856+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                               PID  Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py   4261  0.75s             1           0  0.91s           2023-12-04T02:59:25
+================================================================================
+[2023-12-04T03:00:06.997+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.85s           2023-12-04T02:59:58
+================================================================================
+[2023-12-04T03:00:37.108+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  1.06s           2023-12-04T03:00:32
+================================================================================
+[2023-12-04T03:01:07.211+0000] {manager.py:887} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                             PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/opt/airflow/dags/dag_luchmeetnet.py                           1           0  0.78s           2023-12-04T03:01:04
+================================================================================
